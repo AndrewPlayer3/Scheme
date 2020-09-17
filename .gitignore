@@ -1,6 +1,8 @@
 dist
 dist-*
 cabal-dev
+main
+.DS_STORE
 *.o
 *.hi
 *.hie
